@@ -12,9 +12,9 @@ Skills: JavaScript (ES6+) / React / Redux Toolkit / React Query / RTK Query / Ty
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvudd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvudd&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=denvudd&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=denvudd&show_icons=true&theme=transparent)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=denvudd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
