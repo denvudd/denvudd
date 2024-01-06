@@ -4,7 +4,7 @@
   <img src="./photo_2024-01-05_10-48-53.jpg" title="hover text">
 </p>
 
-Hello, my name is Dima and I enjoy creating websites and web applications! I strive to produce high-quality, visually appealing, and functional results, with the most essential goal of ensuring a pleasant user experience. A year ago, I became interested in web development when I attempted to code my first website. Since then, I have been studying markup languages and am actively learning other technologies!
+Well hello there! I strive to produce high-quality, visually appealing, and functional results, with the most essential goal of ensuring a pleasant user experience. A year ago, I became interested in web development when I attempted to code my first website. Since then, I have been studying markup languages and am actively learning other technologies!
 
 Skills: JavaScript (ES6+) / React / Redux Toolkit / React Query / RTK Query / Typescript / Next.js / Tailwind CSS / Ant Design / Shadcn-UI / Radix UI / Node.js / Express / Nest.js / Prisma ORM / MySQL / MongoDB / Mongoose
 
