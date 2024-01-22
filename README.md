@@ -4,14 +4,12 @@
   <img src="./photo_2024-01-05_10-48-53.jpg" title="hover text">
 </p>
 
-Well hello there! I strive to produce high-quality, visually appealing, and functional results, with the most essential goal of ensuring a pleasant user experience. A year ago, I became interested in web development when I attempted to code my first website. Since then, I have been studying markup languages and am actively learning other technologies!
+Well hello there! A year ago, I became interested in web development when I attempted to code my first website. Since then, I have been actively studying web development technologies. I wholeheartedly love React.js, and even more so, I love Next.js. I enjoy spending a day with a cup of tea and code.
 
 Skills: JavaScript (ES6+) / React / Redux Toolkit / React Query / RTK Query / Typescript / Next.js / Tailwind CSS / Ant Design / Shadcn-UI / Radix UI / Node.js / Express / Nest.js / Prisma ORM / MySQL / MongoDB / Mongoose
 
 - 🔭 I’m currently working on my projects for my portfolio and a little bit of freelance
 - 🌱 I’m currently learning React, TypeScript, Next.js, Nest.js, Express, MySQL, MongoDB
-- 💬 Ask me about what I know and what I can do ;)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvudd&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
