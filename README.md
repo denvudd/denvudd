@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Dmytro
+### Hi there 👋
 #### I build things for the web
 <p align="center">
   <img src="./photo_2024-01-05_10-48-53.jpg" title="hover text">
