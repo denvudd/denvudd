@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I build things for the web
+#### I build things for the web and mobiles
 <p align="center">
   <img src="./photo_2024-01-05_10-48-53.jpg" title="hover text">
 </p>
