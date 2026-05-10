@@ -9,7 +9,7 @@ Well hello there! My name is Dmytro, I live in Kyiv, Ukraine, and I love to spen
 Skills: JavaScript (ES6+) / React / Next.js / React Native / Redux / React Query / Typescript / Tailwind CSS / Ant Design / Shadcn-UI / Radix UI / Node.js / Express / Nest.js / Supabase / AWS Amplify / Prisma ORM / MySQL / MongoDB / Mongoose
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denvudd&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=denvudd&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=denvudd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
