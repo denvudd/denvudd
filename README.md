@@ -6,7 +6,7 @@
 
 Well hello there! My name is Dmytro, I live in Kyiv, Ukraine, and I love to spend the day with a cup of coffee and code!
 
-Skills: JavaScript (ES6+) / React / Next.js / React Native / Redux / React Query / Typescript / Tailwind CSS / Ant Design / Radix UI / Express / Nest.js / Supabase & Firebase / AWS Cognito / Prisma & Drizzle ORM / PostgreSQL / MongoDB / Python / Fast API
+Skills: JavaScript (ES6+) / React / Next.js / Vue / Nuxt / React Native / Typescript / Express / Nest.js / Python / Fast API / Supabase & Firebase / AWS Cognito / Prisma & Drizzle ORM / PostgreSQL / MongoDB /
 
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=denvudd&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
