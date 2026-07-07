@@ -4,7 +4,7 @@
   <img src="./photo_2024-01-05_10-48-53.jpg" title="hover text">
 </p>
 
-Well hello there! My name is Dmytro, I live in Kyiv, Ukraine, and I love to spend the day with a cup of coffee and code!
+My name is Dmytro, I live in Kyiv, Ukraine, and I love to spend the day with a cup of coffee and code!
 
 Skills: JavaScript (ES6+) / React / Next.js / Vue / Nuxt / React Native / Typescript / Express / Nest.js / Python / Fast API / Supabase & Firebase / AWS Cognito / Prisma & Drizzle ORM / PostgreSQL / MongoDB
 
